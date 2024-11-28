@@ -23,6 +23,8 @@
 <a href="https://fb.com/nadeesha ruwandima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadeesha ruwandima" height="30" width="40" /></a>
 <a href="https://instagram.com/nadeesha_xxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadeesha_xxn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/n4diy4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="n4diy4" height="30" width="40" /></a>
+<a href="" target="blank"><img src="![image](https://github.com/user-attachments/assets/a9b1ebc5-0969-402f-b973-7702386a8490)
+" alt="icon"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
