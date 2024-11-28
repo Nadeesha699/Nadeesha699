@@ -1,5 +1,5 @@
 
-<img src="https://images.app.goo.gl/ueEq7EaD6cXayEXA8" alt="icon"/>
+<img src="https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif" alt="icon" width="500" height="700"/>
 <h1 align="center">Hi 👋, I'm Nadeesha Ruwandima</h1>
 <h3 align="center">Call Me NADIYAA/h3>
 
