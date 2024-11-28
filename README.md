@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif" alt="icon"/>
+<img src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-13.gif" alt="icon"/>
 <h1 align="center">Hi 👋, I'm Nadeesha Ruwandima</h1>
 <h3 align="center">Call Me NADIYAA/h3>
 
