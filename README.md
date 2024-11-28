@@ -1,19 +1,17 @@
 
 ![MasterHead](https://th.bing.com/th/id/R.618f083c61a7460ce0a6064319af41bd?rik=xVh09emgHbJ7GA&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Nadeesha Ruwandima</h1>
-<h3 align="center">Call Me N4DIY4 :) </h3>
+<h3 align="center">Call Me NADIYAA/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeesha699&label=Profile%20views&color=0e75b6&style=flat" alt="nadeesha699" /> </p>
 
-- 🔭 I’m currently working on **Women Safety Mobile App, Super Market Desktop App, Bu and Selling Desktop App, Hostel Manegement Web App**
+- 🔭 I’m currently working on **React native cloth store app**
 
-- 🌱 I’m currently learning **Flutter , MongoDB , sqlLite**
+- 🌱 I’m currently learning **Laraval , MongoDB**
 
 - 👯 I’m looking to collaborate on **Taxi Booking Service Web App**
 
-- 🤝 I’m looking for help with **Data Structure Algorithm using c++, Pizzu Order Web App**
-
-- 💬 Ask me about **react, java, c#, c++, c, sql, python, kotlin, js, html, php, jquery, css, mysql**
+- 💬 Ask me about **react, java, c#, c++, c, sql, python, kotlin, js, html, php, jquery, css, mysql,React native, Vue, Angular**
 
 - 📫 How to reach me **nadeesharuwandima@gmail.com**
 
