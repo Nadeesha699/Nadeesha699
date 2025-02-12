@@ -1,15 +1,15 @@
 
 <img src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-13.gif" alt="icon"/>
 <h1 align="center">Hi 👋, I'm Nadeesha Ruwandima</h1>
-<h3 align="center">Call Me NADIYAA</h3>
+<h3 align="center">Call Me Nadeesha</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeesha699&label=Profile%20views&color=0e75b6&style=flat" alt="nadeesha699" /> </p>
 
-- 🔭 I’m currently working on **React native cloth store app**
+- 🔭 I’m currently working on **Ready Mobile App**
 
-- 🌱 I’m currently learning **Laraval , MongoDB**
+- 🌱 I’m currently learning **Flutter , MongoDB**
 
-- 👯 I’m looking to collaborate on **Taxi Booking Service Web App**
+- 👯 I’m looking to collaborate on **Blood Donation App,Ready Mobile App,Flutter Mobile Game**
 
 - 💬 Ask me about **react, java, c#, c++, c, sql, python, kotlin, js, html, php, jquery, css, mysql,React native, Vue, Angular**
 
