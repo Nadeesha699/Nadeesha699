@@ -1,7 +1,7 @@
 
 <img src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-13.gif" alt="icon"/>
 <h1 align="center">Hi 👋, I'm Nadeesha Ruwandima</h1>
-<h3 align="center">Call Me NADIYAA/h3>
+<h3 align="center">Call Me NADIYAA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeesha699&label=Profile%20views&color=0e75b6&style=flat" alt="nadeesha699" /> </p>
 
