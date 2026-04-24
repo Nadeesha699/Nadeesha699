@@ -10,16 +10,6 @@
 
 ---
 
-## 🚀 About Me
-
-* 🔭 Currently working on **Ready Mobile App**
-* 🌱 Learning **Flutter & MongoDB**
-* 👯 Open to collaborate on **Mobile Apps, Flutter Games, Blood Donation Platforms**
-* 💬 Ask me about **Java, C#, C++, Python, JavaScript, React, React Native, PHP, SQL**
-* ⚡ Fun fact: I think I am fun 😄
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
