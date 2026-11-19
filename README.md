@@ -1,96 +1,67 @@
 # 👋 Hi, I'm Nadeesha Ruwandima
 
-\<p align="center">
-&#x20; \<img src="[https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-13.gif](https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-13.gif)" width="100%" />
-\</p>
+<p align="center">
+  <img src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-13.gif" width="100%" />
+</p>
 
-\<h3 align="center">
-&#x20; MERN Stack Developer | Full Stack Developer | Mobile App Enthusiast
-\</h3>
-
-\<p align="center">
-&#x20; Passionate about building modern, responsive, and user-friendly web applications.
-&#x20; Always exploring new technologies and improving my development skills.
-\</p>
+<p align="center">
+  <b>Mobile & Full Stack Developer | Flutter Enthusiast | Backend Explorer</b>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🛠 Tech Stack
 
-- 💻 Interested in Full Stack Web Development.
-- 🌱 Currently exploring the MERN Stack.
-- ⚛️ Working with React.js and Node.js.
-- 🗄️ Interested in database design and backend development.
-- 📱 Exploring mobile application development with Flutter.
-- 🔍 Enjoy learning new technologies and solving programming challenges.
-- 🎯 Focused on writing clean, maintainable, and efficient code.
+### Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 🛠️ Tech Stack
+### Mobile & Web
 
-### 💻 Programming Languages
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=js,ts,java,python,cs](https://skillicons.dev/icons?i=js,ts,java,python,cs)" /> \</p>
+### Backend & Database
 
-### 🌐 Frontend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap)" /> \</p>
+### Tools
 
-### ⚙️ Backend Development
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=nodejs,express](https://skillicons.dev/icons?i=nodejs,express)" /> \</p>
-
-### 🗄️ Databases
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=mongodb,mysql,firebase](https://skillicons.dev/icons?i=mongodb,mysql,firebase)" /> \</p>
-
-### 📱 Mobile Development
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=flutter,dart](https://skillicons.dev/icons?i=flutter,dart)" /> \</p>
-
-### 🔧 Tools & Technologies
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman,figma](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)" />
-\</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-\<p align="center">
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=nadeesha699&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=nadeesha699\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=nadeesha699&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeesha699\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadeesha699&show_icons=true&theme=tokyonight" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=nadeesha699&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=nadeesha699\&theme=tokyonight\&hide_border=true)" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeesha699&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-\<p align="center">
-&#x20; \<a href="[https://linkedin.com/in/nadeesha-ruwandima](https://linkedin.com/in/nadeesha-ruwandima)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://instagram.com/nadeesha_xxn](https://instagram.com/nadeesha_xxn)">
-&#x20;   \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://www.youtube.com/c/n4diy4](https://www.youtube.com/c/n4diy4)">
-&#x20;   \<img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://wa.me/94711764232](https://wa.me/94711764232)">
-&#x20;   \<img src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://linkedin.com/in/nadeesha ruwandima"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://instagram.com/nadeesha_xxn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/c/n4diy4"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://wa.me/+94711764232"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
 
 ---
 
-\<p align="center">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=nadeesha699&label=Profile%20Views&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=nadeesha699\&label=Profile%20Views\&color=blueviolet\&style=flat)" />
-\</p>
-
-\<h3 align="center">⭐ Always Learning | Always Building | Always Improving 🚀\</h3>
+<p align="center">⭐ Always learning, always building.</p>
